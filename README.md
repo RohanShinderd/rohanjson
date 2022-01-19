@@ -2,8 +2,12 @@
 
 
 
-Hi I use a put command in my database
-code is 
+# Hi I use a put command in my database code is
+
+
+
+
+
 "token": "708862679|8981615562961411263|268862579",
     "cmd": "PUT",
     "dbName": "Employeer",
@@ -20,8 +24,15 @@ code is
     }
 }
 
-2. I use a update command
+
+
+
+
+# 2. I use a update command
 {
+
+
+
     "token": "708862679|8981615562961411263|268862579",
     "cmd": "UPDATE",
     "dbName": "Employeer-DB",
@@ -47,7 +58,12 @@ code is
 
 
 
-3 I use a remove command
+
+
+
+
+
+# 3 I use a remove command
 {
     "token": "708862679|8981615562961411263|268862579", 
     "cmd": "REMOVE",
