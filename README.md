@@ -5,8 +5,7 @@
 # Hi I use a put command in my database code is
 
 
-
-
+{
 
 "token": "708862679|8981615562961411263|268862579",
     "cmd": "PUT",
@@ -58,19 +57,14 @@
 
 
 
-
-
-
-
-
 # 3 I use a remove command
 
-
-
 {
+
     "token": "708862679|8981615562961411263|268862579", 
     "cmd": "REMOVE",
     "dbName": "Companys",
     "rel": "Employeer",
     "record": 1
+    
 }
